@@ -30,12 +30,12 @@ ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Activate
 AUTO_REACT: process.env.AUTO_REACT || "true",
 BOT_NAME: process.env.BOT_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃", // Input Yours custom...(Maintain font for Flow)
 BOT_PIC: process.env.BOT_PIC || "https://files.giftedtech.my.id/file/gifted-md.jpg", // You can Replace with yours...
-AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
+AUTO_AUDIO: process.env.AUTO_AUDIO || "true",
 WELCOME: process.env.WELCOME || "true",
 GOODBYE: process.env.GOODBYE || "true",    
 AUTO_READ_MESSAGES: process.env.AUTO_READ_MESSAGES || "false",
 AUTO_BLOCK: process.env.AUTO_BLOCK || "212,79", // Add Multiple Country Codes Separated by Comma...
-PRESENCE: process.env.PRESENCE || "offline", // Choose one: typing, recording, online, null
+PRESENCE: process.env.PRESENCE || "◈|𝙾𝙵𝙵𝙻𝙸𝙽𝙴៚🐼", // Choose one: typing, recording, online, null
 TIME_ZONE: process.env.TIME_ZONE || "Africa/Nairobi", // Enter yours else leave blank if not sure
 };
 
